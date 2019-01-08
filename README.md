@@ -1,0 +1,2 @@
+# estadistica
+UN REPO DONDE ESTUDIO MATEMATICAS
